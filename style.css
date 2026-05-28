@@ -2,7 +2,16 @@ body {
   font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   text-align: center;
   padding: 100px;
-  background-color: #525669;
+  background-color: #7a81a5;
+}
+
+p {
+       text-align: center;
+    color: #ffffff;
+    width: 600px;
+    margin: 0 auto;
+}
+
 }
 
 h1 {
@@ -12,4 +21,5 @@ h1 {
 img {
   width: 600px;
   border-radius: 10px;
+  margin-top: 30px;
 }
